@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "country": "GermanLon",
+        "capital": "Lon"
+    },
+    {
+        "id": "2",
+        "country": "GermanBer",
+        "capital": "Ber"
+    },
+    {
+        "id": "3",
+        "country": "GermanPar",
+        "capital": "Par"
+    }
+]

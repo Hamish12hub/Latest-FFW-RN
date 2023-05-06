@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "country": "United Kingdom",
+        "capital": "London"
+    },
+    {
+        "id": "2",
+        "country": "Germany",
+        "capital": "Berlin"
+    },
+    {
+        "id": "3",
+        "country": "Turkey",
+        "capital": "Paris"
+    },
+    {
+        "id": "4",
+        "country": "Spain",
+        "capital": "Madrid"
+    },
+    {
+        "id": "5",
+        "country": "Italy",
+        "capital": "Rome"
+    },
+    {
+        "id": "6",
+        "country": "Portugal",
+        "capital": "Lisbon"
+    }
+]
